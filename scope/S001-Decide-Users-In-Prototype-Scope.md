@@ -1,8 +1,3 @@
-
-## Decision
-
-We will create a proof of concept with the student and lecturer as the outlined roles
-
 # 1. Decide Users In Protype Scope
 
 ## Context and Problem Statement
