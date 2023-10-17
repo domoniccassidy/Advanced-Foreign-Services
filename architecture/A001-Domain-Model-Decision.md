@@ -16,6 +16,9 @@ Chosen option: "Include the account and registration in the domain model", becau
 * These are fundamental components of the system
 * I don't belive we could show the login and registration without including these elements
 
+### Consquences
+Our domain model now effectively showcases the account login
+
 ## Confirmation
 Accepted on 2023-10-10
 
