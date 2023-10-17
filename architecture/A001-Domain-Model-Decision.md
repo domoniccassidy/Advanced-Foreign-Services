@@ -1,18 +1,21 @@
 # 1. Domain Model Decision
-Date: 2023-10-10
 
-## Status
+## Context and Problem Statement
 
-Accepted
+Should the account and registration system be included in the domain model?
 
-## Context
+## Considered Options
 
-Should the account and registration be included in the domain model?
+* Include the account and registration in the domain model
+* Only include account
+* Include neither
 
-## Decision
+## Decision Outcome
 
-We have decided that it will be included in the domain model.
+Chosen option: "Include the account and registration in the domain model", because
+* These are fundamental components of the system
+* I don't belive we could show the login and registration without including these elements
 
-## Consequences
+## Confirmation
+Accepted on 2023-10-10
 
-You can clearly see the entrance to the system and how the user interacts with this as a result.
