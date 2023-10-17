@@ -1,4 +1,4 @@
-# Domain Model Decision
+# 1. Domain Model Decision
 
 ## Status
 
