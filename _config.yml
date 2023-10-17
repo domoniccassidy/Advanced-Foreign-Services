@@ -1,2 +1,3 @@
 name: UoPS Architecture Decision Record
 theme: minima
+markdown: kramdown
