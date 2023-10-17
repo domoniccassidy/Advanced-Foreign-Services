@@ -1,4 +1,5 @@
 # 1. Domain Model Decision
+Date: 2023-10-10
 
 ## Status
 
