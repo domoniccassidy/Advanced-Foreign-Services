@@ -1,8 +1,5 @@
-# 3. Decide Tool For Creating Wireframes 
+# 3. Decide on Tool For Creating Wireframes 
 
-Date: 2023-10-03
-
-# 2. Domain Model Notation
 We need to decide on a tool to create our wireframes with
 
 ## Context and Problem Statement
